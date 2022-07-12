@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+    <meta content='width=device-width,initial-scale=1' name='viewport'/>
+  <meta content='Shop Bán Acc Thủ Công By Lê Tiến Đạt' name='keywords'/>
+  <meta content='Shop Bán Acc Thủ Công By Lê Tiến Đạt' name='description'/>
+  <meta content='Lê Tiến Đạt - DOO' name='author'/>
+  <meta content='1.0' name='version'/>
+    <meta content='IE=edge' http-equiv='X-UA-Compatible'/>
+  <link href='https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css' rel='stylesheet' type='text/css'/>
+    <link href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css' rel='stylesheet' type='text/css'/>
+   <script src='https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js'/>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js'/>
+  <script src='https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js'/>
+    <head>
+        <title>
+          Web Mua Bán Nick Game, Acc Game, Shop Nick Game - Nick.vn
+        </title>
+        <b:skin><![CDATA[
+            
+              *{
+	padding: 0;
+	margin:0;
+	font-family: Arial;
+	color: black
+}
+body {
+	position: relative;
+}
+#menu ul li a {
+	text-transform: uppercase;
+	font-weight: bold;font-size: 13px;
+	padding-right: 20px;
+	color: black
+}
+#menu ul li {
+	margin-top: 10px
+}
+#menu,#game,#slider,#vongquay {
+	padding: 20px 0 20px 0;
+}
+#menu ul li a:hover {
+	display: block;
+
+	background: #eee;
+	color: aqua;
+}
+h2 {
+	font-weight: bold;
+}
+#game button {
+	width: 80%;
+	border: 2px solid #ccc;
+	background: transparent;
+	padding: 5px 0 5px 0;
+	font-size: 13px
+}
+#vongquay button {
+	width: 80%;
+	border: 2px solid #ccc;
+	background: transparent;
+	padding: 5px 0 5px 0;
+	font-size: 13px
+}
+#moruong button {
+	width: 80%;
+	border: 2px solid #ccc;
+	background: transparent;
+	padding: 5px 0 5px 0;
+	font-size: 13px
+}
+.games {
+	padding: 20px 0 20px 0;
+
+}
+.games h6{
+	color: orange;
+	font-size: 13px;
+	font-weight: bold;
+}
+#footer h5 {
+	color: white;
+	font-weight: bold;
+}
+#footer h5 span {
+	color: #006666
+}
+#footer ul li a {
+	color: white;
+}
+#moruong h6 {
+margin-top:10px;
+}
+#game h6 {
+margin-top:10px;
+}
+ 
+#vongquay h6 {
+margin-top:10px;
+}
+.borders:hover{box-shadow:5px 5px 5px #ccc}
+ 
+                
+        ]]></b:skin>
+    </head>
+    <body>
+        <div id='menu'>
+	<div class='container'>
+		<div class='row text-center'>
+			<div class='col-md-2'>
+				<img src='https://1.bp.blogspot.com/-gFBip7hf8P4/XxqoRUQ6HKI/AAAAAAAAB4o/kYc_me2jDXYWNw8nosn2radHCkHsvvGTgCLcBGAsYHQ/s2067/logo.jpg' width='80%'/>
+			</div><!--col-->
+			<div class='col-md-10'>
+				<nav class='navbar navbar-expand-md navbar-dark'>
+  <a class='navbar-brand' href='#'/>
+  <button class='navbar-toggler' data-target='#collapsibleNavbar' data-toggle='collapse' style='background: gray' type='button'>
+    <span class='navbar-toggler-icon'/>
+  </button>
+  <div class='collapse navbar-collapse' id='collapsibleNavbar'>
+    <ul class='navbar-nav'>
+      <li class='nav-item'>
+   <a class='nav-link' href='#'> Trang chủ</a> </li>
+						<li class='nav-item'><a class='nav-link' href='#'> Mua thẻ</a> </li>
+						<li class='nav-item'><a class='nav-link' href='#'> Dịch vụ</a> </li>
+						<li class='nav-item'><a class='nav-link' href='#'> Mở rương</a> </li>
+						<li class='nav-item'><a class='nav-link' href='#'> Nạp tiền</a> </li>
+						<li class='nav-item'><a class='nav-link' href='#'> Tin tức</a> </li>
+						<li class='nav-item'><a class='nav-link' href='#'><span style='border: 1px solid gray;border-radius: 25px;padding: 8px 15px 8px 15px'><i class='fa fa-user'/> Đăng nhập</span></a> </li>
+						<li class='nav-item'><a class='nav-link' href='#'><span style='border: 1px solid gray;border-radius: 25px;padding: 8px 15px 8px 15px'><i class='fa fa-key'/> Đăng ký</span></a> </li>
+    </ul>
+  </div>  
+</nav>
+			</div><!--col-->
+		</div><!--row-->
+	</div><!--container-->
+</div><!--menu-->
+<div id='banner'>
+	<div class='container-fluid'>
+		<div class='row'>
+			<img src='https://1.bp.blogspot.com/-UNrWvRJeVxk/XxqoT4vIpVI/AAAAAAAAB4s/v3gN3iL90igdIqroLTf3bKYQW5H_EFoiwCLcBGAsYHQ/s1349/banner.jpg' width='100%'/>
+		</div>
+	</div><!--container-fluid-->
+</div><!--banner-->
+<div id='slider'>
+	<div class='container'>
+		<div class='row text-center'>
+      <div class='col-md-12'>
+      	<h2>DỊCH VỤ NỔI BẬT</h2>
+      </div><!--col-->
+		</div><!--row-->
+		<div class='row text-center'>
+			<div class='col-md-3 col-6'>
+				<img src='https://1.bp.blogspot.com/-JGT1nAa9ov8/XxqoVfEs3sI/AAAAAAAAB4w/VZc7NL4TmUkGZ6KJvseQItRs1__7vDxEgCLcBGAsYHQ/s960/slider1.jpg' width='90%'/>
+			</div>
+			<div class='col-md-3 col-6'>
+				<img src='https://1.bp.blogspot.com/-XESw05_PlAk/XxqoWawvVOI/AAAAAAAAB40/YqDwxr1FD0kEJmPEUBB-Ml_h7lzR1-wlQCLcBGAsYHQ/s960/slider2.jpg' width='90%'/>
+			</div>
+			<div class='col-md-3 col-6 d-none d-sm-block'>
+				<img src='https://1.bp.blogspot.com/-0SZpbOVsr0c/XxqoX6wG87I/AAAAAAAAB44/UpBYwRxiWLEIMWDIEbSQs-PGz07Vcb7XgCLcBGAsYHQ/s960/slider3.jpg' width='90%'/>
+			</div>
+			<div class='col-md-3 col-6 d-none d-sm-block'>
+				<img src='https://1.bp.blogspot.com/-ZHVXD9WPK4w/XxqoYSCPKgI/AAAAAAAAB48/cfhXRgE4Cp8fJZu0Nnoj3-JwFtXKLx0cwCLcBGAsYHQ/s320/slider4.jpg' width='90%'/>
+			</div>
+		</div><!--row-->
+	</div><!--contanier-->
+</div><!--slider-->
+<div id='game'>
+	<div class='container'>
+		<div class='row text-center'>
+      <div class='col-md-12'>
+      	<h2>DANH MỤC GAME</h2>
+      </div><!--col-->
+		</div><!--row-->
+		<div class='row games text-center'>
+			<div class='col-md-3 col-6'>
+				<div class="borders" style='border:1px solid#ccc;padding: 2px 5px 30px 5px'>
+				<img src='https://1.bp.blogspot.com/-ccxoJz98oO4/Xxqob9NztjI/AAAAAAAAB5E/hAGh4J-jsu49eUtCP-o20ncnZv2QSgbkwCLcBGAsYHQ/s350/game1.gif' width='100%'/>
+				<h6>DANH MỤC GAME LIÊN QUÂN</h6>
+				<p>Số tài khoản : 19,999</p>
+				<div class='row text-center'>
+	           <div class='col-md-12'>
+	           	<button>XEM TẤT CẢ</button>
+	           </div><!--col-->
+				</div><!--row-->
+			</div><!--col-->
+		</div><!--style-->
+			<div class='col-md-3 col-6'>
+				<div class="borders" style='border:1px solid#ccc;padding: 2px 5px 30px 5px'>
+				<img src='https://1.bp.blogspot.com/-ccxoJz98oO4/Xxqob9NztjI/AAAAAAAAB5E/hAGh4J-jsu49eUtCP-o20ncnZv2QSgbkwCLcBGAsYHQ/s350/game1.gif' width='100%'/>
+				<h6>DANH MỤC GAME LIÊN QUÂN</h6>
+				<p>Số tài khoản : 19,999</p>
+				<div class='row text-center'>
+	           <div class='col-md-12'>
+	           	<button>XEM TẤT CẢ</button>
+	           </div><!--col-->
+				</div><!--row-->
+			</div><!--col-->
+		</div><!--style-->
+			<div class='col-md-3 col-6'>
+				<div class="borders" style='border:1px solid#ccc;padding: 2px 5px 30px 5px'>
+				<img src='https://1.bp.blogspot.com/-ccxoJz98oO4/Xxqob9NztjI/AAAAAAAAB5E/hAGh4J-jsu49eUtCP-o20ncnZv2QSgbkwCLcBGAsYHQ/s350/game1.gif' width='100%'/>
+				<h6>DANH MỤC GAME LIÊN QUÂN</h6>
+				<p>Số tài khoản : 19,999</p>
+				<div class='row text-center'>
+	           <div class='col-md-12'>
+	           	<button>XEM TẤT CẢ</button>
+	           </div><!--col-->
+				</div><!--row-->
+			</div><!--col-->
+		</div><!--style-->
+			<div class='col-md-3 col-6'>
+				<div class="borders" style='border:1px solid#ccc;padding: 2px 5px 30px 5px'>
+				<img src='https://1.bp.blogspot.com/-ccxoJz98oO4/Xxqob9NztjI/AAAAAAAAB5E/hAGh4J-jsu49eUtCP-o20ncnZv2QSgbkwCLcBGAsYHQ/s350/game1.gif' width='100%'/>
+				<h6>DANH MỤC GAME LIÊN QUÂN</h6>
+				<p>Số tài khoản : 19,999</p>
+				<div class='row text-center'>
+	           <div class='col-md-12'>
+	           	<button>XEM TẤT CẢ</button>
+	           </div><!--col-->
+				</div><!--row-->
+			</div><!--col-->
+		</div><!--style-->
+		</div><!--row-->
+		<div class='row games text-center'>
+			<div class='col-md-3 col-6'>
+				<div class="borders" style='border:1px solid#ccc;padding: 2px 5px 30px 5px'>
+				<img src='https://1.bp.blogspot.com/-ccxoJz98oO4/Xxqob9NztjI/AAAAAAAAB5E/hAGh4J-jsu49eUtCP-o20ncnZv2QSgbkwCLcBGAsYHQ/s350/game1.gif' width='100%'/>
+				<h6>DANH MỤC GAME LIÊN QUÂN</h6>
+				<p>Số tài khoản : 19,999</p>
+				<div class='row text-center'>
+	           <div class='col-md-12'>
+	           	<button>XEM TẤT CẢ</button>
+	           </div><!--col-->
+				</div><!--row-->
+			</div><!--col-->
+		</div><!--style-->
+			<div class='col-md-3 col-6'>
+				<div class="borders" style='border:1px solid#ccc;padding: 2px 5px 30px 5px'>
+				<img src='https://1.bp.blogspot.com/-ccxoJz98oO4/Xxqob9NztjI/AAAAAAAAB5E/hAGh4J-jsu49eUtCP-o20ncnZv2QSgbkwCLcBGAsYHQ/s350/game1.gif' width='100%'/>
+				<h6>DANH MỤC GAME LIÊN QUÂN</h6>
+				<p>Số tài khoản : 19,999</p>
+				<div class='row text-center'>
+	           <div class='col-md-12'>
+	           	<button>XEM TẤT CẢ</button>
+	           </div><!--col-->
+				</div><!--row-->
+			</div><!--col-->
+		</div><!--style-->
+			<div class='col-md-3 col-6'>
+				<div class="borders" style='border:1px solid#ccc;padding: 2px 5px 30px 5px'>
+				<img src='https://1.bp.blogspot.com/-ccxoJz98oO4/Xxqob9NztjI/AAAAAAAAB5E/hAGh4J-jsu49eUtCP-o20ncnZv2QSgbkwCLcBGAsYHQ/s350/game1.gif' width='100%'/>
+				<h6>DANH MỤC GAME LIÊN QUÂN</h6>
+				<p>Số tài khoản : 19,999</p>
+				<div class='row text-center'>
+	           <div class='col-md-12'>
+	           	<button>XEM TẤT CẢ</button>
+	           </div><!--col-->
+				</div><!--row-->
+			</div><!--col-->
+		</div><!--style-->
+			<div class='col-md-3 col-6'>
+				<div class="borders" style='border:1px solid#ccc;padding: 2px 5px 30px 5px'>
+				<img src='https://1.bp.blogspot.com/-ccxoJz98oO4/Xxqob9NztjI/AAAAAAAAB5E/hAGh4J-jsu49eUtCP-o20ncnZv2QSgbkwCLcBGAsYHQ/s350/game1.gif' width='100%'/>
+				<h6>DANH MỤC GAME LIÊN QUÂN</h6>
+				<p>Số tài khoản : 19,999</p>
+				<div class='row text-center'>
+	           <div class='col-md-12'>
+	           	<button>XEM TẤT CẢ</button>
+	           </div><!--col-->
+				</div><!--row-->
+			</div><!--col-->
+		</div><!--style-->
+		</div><!--row-->
+		<div class='row games text-center'>
+			<div class='col-md-3 col-6'>
+				<div class="borders" style='border:1px solid#ccc;padding: 2px 5px 30px 5px'>
+				<img src='https://1.bp.blogspot.com/-ccxoJz98oO4/Xxqob9NztjI/AAAAAAAAB5E/hAGh4J-jsu49eUtCP-o20ncnZv2QSgbkwCLcBGAsYHQ/s350/game1.gif' width='100%'/>
+				<h6>DANH MỤC GAME LIÊN QUÂN</h6>
+				<p>Số tài khoản : 19,999</p>
+				<div class='row text-center'>
+	           <div class='col-md-12'>
+	           	<button>XEM TẤT CẢ</button>
+	           </div><!--col-->
+				</div><!--row-->
+			</div><!--col-->
+		</div><!--style-->
+			<div class='col-md-3 col-6'>
+				<div class="borders" style='border:1px solid#ccc;padding: 2px 5px 30px 5px'>
+				<img src='https://1.bp.blogspot.com/-ccxoJz98oO4/Xxqob9NztjI/AAAAAAAAB5E/hAGh4J-jsu49eUtCP-o20ncnZv2QSgbkwCLcBGAsYHQ/s350/game1.gif' width='100%'/>
+				<h6>DANH MỤC GAME LIÊN QUÂN</h6>
+				<p>Số tài khoản : 19,999</p>
+				<div class='row text-center'>
+	           <div class='col-md-12'>
+	           	<button>XEM TẤT CẢ</button>
+	           </div><!--col-->
+				</div><!--row-->
+			</div><!--col-->
+		</div><!--style-->
+			<div class='col-md-3 col-6'>
+				<div class="borders" style='border:1px solid#ccc;padding: 2px 5px 30px 5px'>
+				<img src='https://1.bp.blogspot.com/-ccxoJz98oO4/Xxqob9NztjI/AAAAAAAAB5E/hAGh4J-jsu49eUtCP-o20ncnZv2QSgbkwCLcBGAsYHQ/s350/game1.gif' width='100%'/>
+				<h6>DANH MỤC GAME LIÊN QUÂN</h6>
+				<p>Số tài khoản : 19,999</p>
+				<div class='row text-center'>
+	           <div class='col-md-12'>
+	           	<button>XEM TẤT CẢ</button>
+	           </div><!--col-->
+				</div><!--row-->
+			</div><!--col-->
+		</div><!--style-->
+			<div class='col-md-3 col-6'>
+				<div class="borders" style='border:1px solid#ccc;padding: 2px 5px 30px 5px'>
+				<img src='https://1.bp.blogspot.com/-ccxoJz98oO4/Xxqob9NztjI/AAAAAAAAB5E/hAGh4J-jsu49eUtCP-o20ncnZv2QSgbkwCLcBGAsYHQ/s350/game1.gif' width='100%'/>
+				<h6>DANH MỤC GAME LIÊN QUÂN</h6>
+				<p>Số tài khoản : 19,999</p>
+				<div class='row text-center'>
+	           <div class='col-md-12'>
+	           	<button>XEM TẤT CẢ</button>
+	           </div><!--col-->
+				</div><!--row-->
+			</div><!--col-->
+		</div><!--style-->
+		</div><!--row-->
+
+	</div><!--container-->
+</div><!--game-->
+<div id='vongquay'>
+	<div class='container'>
+		<div  class='row text-center'>
+      <div class='col-md-12'>
+      	<h2>VÒNG QUAY MAY MẮN</h2>
+      </div><!--col-->
+		</div><!--row-->
+		<div class='row games text-center'>
+			<div class='col-md-3 col-6'>
+				<div class="borders" style='border:1px solid#ccc;padding: 2px 5px 30px 5px'>
+				<img src='https://1.bp.blogspot.com/-rbSuwP2Vhk4/XxqobCGsssI/AAAAAAAAB5A/2wuk1ULcylQBin8v-g02y2aj2B8BeJFzwCLcBGAsYHQ/s320/vq1.gif' width='100%'/>
+				<h6>DANH MỤC GAME LIÊN QUÂN</h6>
+				<p>Đã quay : 19,999</p>
+				<div class='row text-center'>
+	           <div class='col-md-12'>
+	           	<button>XEM TẤT CẢ</button>
+	           </div><!--col-->
+				</div><!--row-->
+			</div><!--col-->
+		</div><!--style-->
+			<div class='col-md-3 col-6'>
+				<div class="borders" style='border:1px solid#ccc;padding: 2px 5px 30px 5px'>
+				<img src='https://1.bp.blogspot.com/-rbSuwP2Vhk4/XxqobCGsssI/AAAAAAAAB5A/2wuk1ULcylQBin8v-g02y2aj2B8BeJFzwCLcBGAsYHQ/s320/vq1.gif' width='100%'/>
+				<h6>DANH MỤC GAME LIÊN QUÂN</h6>
+				<p>Đã quay : 19,999</p>
+				<div class='row text-center'>
+	           <div class='col-md-12'>
+	           	<button>XEM TẤT CẢ</button>
+	           </div><!--col-->
+				</div><!--row-->
+			</div><!--col-->
+		</div><!--style-->
+			<div class='col-md-3 col-6'>
+				<div class="borders" style='border:1px solid#ccc;padding: 2px 5px 30px 5px'>
+				<img src='https://1.bp.blogspot.com/-rbSuwP2Vhk4/XxqobCGsssI/AAAAAAAAB5A/2wuk1ULcylQBin8v-g02y2aj2B8BeJFzwCLcBGAsYHQ/s320/vq1.gif' width='100%'/>
+				<h6>DANH MỤC GAME LIÊN QUÂN</h6>
+				<p>Đã quay : 19,999</p>
+				<div class='row text-center'>
+	           <div class='col-md-12'>
+	           	<button>XEM TẤT CẢ</button>
+	           </div><!--col-->
+				</div><!--row-->
+			</div><!--col-->
+		</div><!--style-->
+			<div class='col-md-3 col-6'>
+				<div class="borders" style='border:1px solid#ccc;padding: 2px 5px 30px 5px'>
+				<img src='https://1.bp.blogspot.com/-rbSuwP2Vhk4/XxqobCGsssI/AAAAAAAAB5A/2wuk1ULcylQBin8v-g02y2aj2B8BeJFzwCLcBGAsYHQ/s320/vq1.gif' width='100%'/>
+				<h6>DANH MỤC GAME LIÊN QUÂN</h6>
+				<p>Đã quay : 19,999</p>
+				<div class='row text-center'>
+	           <div class='col-md-12'>
+	           	<button>XEM TẤT CẢ</button>
+	           </div><!--col-->
+				</div><!--row-->
+			</div><!--col-->
+		</div><!--style-->
+		</div><!--row-->
+		<div class='row games text-center'>
+			<div class='col-md-3 col-6'>
+				<div class="borders" style='border:1px solid#ccc;padding: 2px 5px 30px 5px'>
+				<img src='https://1.bp.blogspot.com/-rbSuwP2Vhk4/XxqobCGsssI/AAAAAAAAB5A/2wuk1ULcylQBin8v-g02y2aj2B8BeJFzwCLcBGAsYHQ/s320/vq1.gif' width='100%'/>
+				<h6>DANH MỤC GAME LIÊN QUÂN</h6>
+				<p>Đã quay : 19,999</p>
+				<div class='row text-center'>
+	           <div class='col-md-12'>
+	           	<button>XEM TẤT CẢ</button>
+	           </div><!--col-->
+				</div><!--row-->
+			</div><!--col-->
+		</div><!--style-->
+			<div class='col-md-3 col-6'>
+				<div class="borders" style='border:1px solid#ccc;padding: 2px 5px 30px 5px'>
+				<img src='https://1.bp.blogspot.com/-rbSuwP2Vhk4/XxqobCGsssI/AAAAAAAAB5A/2wuk1ULcylQBin8v-g02y2aj2B8BeJFzwCLcBGAsYHQ/s320/vq1.gif' width='100%'/>
+				<h6>DANH MỤC GAME LIÊN QUÂN</h6>
+				<p>Đã quay : 19,999</p>
+				<div class='row text-center'>
+	           <div class='col-md-12'>
+	           	<button>XEM TẤT CẢ</button>
+	           </div><!--col-->
+				</div><!--row-->
+			</div><!--col-->
+		</div><!--style-->
+			<div class='col-md-3 col-6'>
+				<div class="borders" style='border:1px solid#ccc;padding: 2px 5px 30px 5px'>
+				<img src='https://1.bp.blogspot.com/-rbSuwP2Vhk4/XxqobCGsssI/AAAAAAAAB5A/2wuk1ULcylQBin8v-g02y2aj2B8BeJFzwCLcBGAsYHQ/s320/vq1.gif' width='100%'/>
+				<h6>DANH MỤC GAME LIÊN QUÂN</h6>
+				<p>Đã quay : 19,999</p>
+				<div class='row text-center'>
+	           <div class='col-md-12'>
+	           	<button>XEM TẤT CẢ</button>
+	           </div><!--col-->
+				</div><!--row-->
+			</div><!--col-->
+		</div><!--style-->
+			<div class='col-md-3 col-6'>
+				<div class="borders" style='border:1px solid#ccc;padding: 2px 5px 30px 5px'>
+				<img src='https://1.bp.blogspot.com/-rbSuwP2Vhk4/XxqobCGsssI/AAAAAAAAB5A/2wuk1ULcylQBin8v-g02y2aj2B8BeJFzwCLcBGAsYHQ/s320/vq1.gif' width='100%'/>
+				<h6>DANH MỤC GAME LIÊN QUÂN</h6>
+				<p>Đã quay : 19,999</p>
+				<div class='row text-center'>
+	           <div class='col-md-12'>
+	           	<button>XEM TẤT CẢ</button>
+	           </div><!--col-->
+				</div><!--row-->
+			</div><!--col-->
+		</div><!--style-->
+		</div><!--row-->
+		<div class='row games text-center'>
+			<div class='col-md-3 col-6'>
+				<div class="borders" style='border:1px solid#ccc;padding: 2px 5px 30px 5px'>
+				<img src='https://1.bp.blogspot.com/-rbSuwP2Vhk4/XxqobCGsssI/AAAAAAAAB5A/2wuk1ULcylQBin8v-g02y2aj2B8BeJFzwCLcBGAsYHQ/s320/vq1.gif' width='100%'/>
+				<h6>DANH MỤC GAME LIÊN QUÂN</h6>
+				<p>Đã quay : 19,999</p>
+				<div class='row text-center'>
+	           <div class='col-md-12'>
+	           	<button>XEM TẤT CẢ</button>
+	           </div><!--col-->
+				</div><!--row-->
+			</div><!--col-->
+		</div><!--style-->
+			<div class='col-md-3 col-6'>
+				<div class="borders" style='border:1px solid#ccc;padding: 2px 5px 30px 5px'>
+				<img src='https://1.bp.blogspot.com/-rbSuwP2Vhk4/XxqobCGsssI/AAAAAAAAB5A/2wuk1ULcylQBin8v-g02y2aj2B8BeJFzwCLcBGAsYHQ/s320/vq1.gif' width='100%'/>
+				<h6>DANH MỤC GAME LIÊN QUÂN</h6>
+				<p>Đã quay : 19,999</p>
+				<div class='row text-center'>
+	           <div class='col-md-12'>
+	           	<button>XEM TẤT CẢ</button>
+	           </div><!--col-->
+				</div><!--row-->
+			</div><!--col-->
+		</div><!--style-->
+			<div class='col-md-3 col-6'>
+				<div class="borders" style='border:1px solid#ccc;padding: 2px 5px 30px 5px'>
+				<img src='https://1.bp.blogspot.com/-rbSuwP2Vhk4/XxqobCGsssI/AAAAAAAAB5A/2wuk1ULcylQBin8v-g02y2aj2B8BeJFzwCLcBGAsYHQ/s320/vq1.gif' width='100%'/>
+				<h6>DANH MỤC GAME LIÊN QUÂN</h6>
+				<p>Đã quay : 19,999</p>
+				<div class='row text-center'>
+	           <div class='col-md-12'>
+	           	<button>XEM TẤT CẢ</button>
+	           </div><!--col-->
+				</div><!--row-->
+			</div><!--col-->
+		</div><!--style-->
+			<div class='col-md-3 col-6'>
+				<div class="borders" style='border:1px solid#ccc;padding: 2px 5px 30px 5px'>
+				<img src='https://1.bp.blogspot.com/-rbSuwP2Vhk4/XxqobCGsssI/AAAAAAAAB5A/2wuk1ULcylQBin8v-g02y2aj2B8BeJFzwCLcBGAsYHQ/s320/vq1.gif' width='100%'/>
+				<h6>DANH MỤC GAME LIÊN QUÂN</h6>
+				<p>Đã quay : 19,999</p>
+				<div class='row text-center'>
+	           <div class='col-md-12'>
+	           	<button>XEM TẤT CẢ</button>
+	           </div><!--col-->
+				</div><!--row-->
+			</div><!--col-->
+		</div><!--style-->
+		</div><!--row-->
+
+	</div><!--container-->
+</div><!--vongquay-->
+<div id='moruong'>
+	<div class='container'>
+		<div class='row text-center'>
+      <div class='col-md-12'>
+      	<h2>MỞ RƯƠNG MAY MẮN</h2>
+      </div><!--col-->
+		</div><!--row-->
+		<div class='row games text-center'>
+			<div class='col-md-3 col-6'>
+				<div class="borders" style='border:1px solid#ccc;padding: 2px 5px 30px 5px'>
+				<img src='https://1.bp.blogspot.com/-IYWrQxM0l_s/Xxqoc2cIrHI/AAAAAAAAB5I/Wp4GXZxCVjA1Ho__ysem4eSuwQl5yrIvwCLcBGAsYHQ/s640/ruong1.jpg' width='100%'/>
+				<h6>DANH MỤC GAME LIÊN QUÂN</h6>
+				<p>Đã quay : 19,999</p>
+				<div class='row text-center'>
+	           <div class='col-md-12'>
+	           	<button>XEM TẤT CẢ</button>
+	           </div><!--col-->
+				</div><!--row-->
+			</div><!--col-->
+		</div><!--style-->
+			<div class='col-md-3 col-6'>
+				<div class="borders" style='border:1px solid#ccc;padding: 2px 5px 30px 5px'>
+				<img src='https://1.bp.blogspot.com/-IYWrQxM0l_s/Xxqoc2cIrHI/AAAAAAAAB5I/Wp4GXZxCVjA1Ho__ysem4eSuwQl5yrIvwCLcBGAsYHQ/s640/ruong1.jpg' width='100%'/>
+				<h6>DANH MỤC GAME LIÊN QUÂN</h6>
+				<p>Đã quay : 19,999</p>
+				<div class='row text-center'>
+	           <div class='col-md-12'>
+	           	<button>XEM TẤT CẢ</button>
+	           </div><!--col-->
+				</div><!--row-->
+			</div><!--col-->
+		</div><!--style-->
+			<div class='col-md-3 col-6'>
+				<div class="borders" style='border:1px solid#ccc;padding: 2px 5px 30px 5px'>
+				<img src='https://1.bp.blogspot.com/-IYWrQxM0l_s/Xxqoc2cIrHI/AAAAAAAAB5I/Wp4GXZxCVjA1Ho__ysem4eSuwQl5yrIvwCLcBGAsYHQ/s640/ruong1.jpg' width='100%'/>
+				<h6>DANH MỤC GAME LIÊN QUÂN</h6>
+				<p>Đã quay : 19,999</p>
+				<div class='row text-center'>
+	           <div class='col-md-12'>
+	           	<button>XEM TẤT CẢ</button>
+	           </div><!--col-->
+				</div><!--row-->
+			</div><!--col-->
+		</div><!--style-->
+			<div class='col-md-3 col-6'>
+				<div class="borders" style='border:1px solid#ccc;padding: 2px 5px 30px 5px'>
+				<img src='https://1.bp.blogspot.com/-IYWrQxM0l_s/Xxqoc2cIrHI/AAAAAAAAB5I/Wp4GXZxCVjA1Ho__ysem4eSuwQl5yrIvwCLcBGAsYHQ/s640/ruong1.jpg' width='100%'/>
+				<h6>DANH MỤC GAME LIÊN QUÂN</h6>
+				<p>Đã quay : 19,999</p>
+				<div class='row text-center'>
+	           <div class='col-md-12'>
+	           	<button>XEM TẤT CẢ</button>
+	           </div><!--col-->
+				</div><!--row-->
+			</div><!--col-->
+		</div><!--style-->
+		</div><!--row-->
+			<div class='row games text-center'>
+			<div class='col-md-3 col-6'>
+				<div class="borders" style='border:1px solid#ccc;padding: 2px 5px 30px 5px'>
+				<img src='https://1.bp.blogspot.com/-IYWrQxM0l_s/Xxqoc2cIrHI/AAAAAAAAB5I/Wp4GXZxCVjA1Ho__ysem4eSuwQl5yrIvwCLcBGAsYHQ/s640/ruong1.jpg' width='100%'/>
+				<h6>DANH MỤC GAME LIÊN QUÂN</h6>
+				<p>Đã quay : 19,999</p>
+				<div class='row text-center'>
+	           <div class='col-md-12'>
+	           	<button>XEM TẤT CẢ</button>
+	           </div><!--col-->
+				</div><!--row-->
+			</div><!--col-->
+		</div><!--style-->
+			<div class='col-md-3 col-6'>
+				<div class="borders" style='border:1px solid#ccc;padding: 2px 5px 30px 5px'>
+				<img src='https://1.bp.blogspot.com/-IYWrQxM0l_s/Xxqoc2cIrHI/AAAAAAAAB5I/Wp4GXZxCVjA1Ho__ysem4eSuwQl5yrIvwCLcBGAsYHQ/s640/ruong1.jpg' width='100%'/>
+				<h6>DANH MỤC GAME LIÊN QUÂN</h6>
+				<p>Đã quay : 19,999</p>
+				<div class='row text-center'>
+	           <div class='col-md-12'>
+	           	<button>XEM TẤT CẢ</button>
+	           </div><!--col-->
+				</div><!--row-->
+			</div><!--col-->
+		</div><!--style-->
+			<div class='col-md-3 col-6'>
+				<div class="borders" style='border:1px solid#ccc;padding: 2px 5px 30px 5px'>
+				<img src='https://1.bp.blogspot.com/-IYWrQxM0l_s/Xxqoc2cIrHI/AAAAAAAAB5I/Wp4GXZxCVjA1Ho__ysem4eSuwQl5yrIvwCLcBGAsYHQ/s640/ruong1.jpg' width='100%'/>
+				<h6>DANH MỤC GAME LIÊN QUÂN</h6>
+				<p>Đã quay : 19,999</p>
+				<div class='row text-center'>
+	           <div class='col-md-12'>
+	           	<button>XEM TẤT CẢ</button>
+	           </div><!--col-->
+				</div><!--row-->
+			</div><!--col-->
+		</div><!--style-->
+			<div class='col-md-3 col-6'>
+				<div class="borders" style='border:1px solid#ccc;padding: 2px 5px 30px 5px'>
+				<img src='https://1.bp.blogspot.com/-IYWrQxM0l_s/Xxqoc2cIrHI/AAAAAAAAB5I/Wp4GXZxCVjA1Ho__ysem4eSuwQl5yrIvwCLcBGAsYHQ/s640/ruong1.jpg' width='100%'/>
+				<h6>DANH MỤC GAME LIÊN QUÂN</h6>
+				<p>Đã quay : 19,999</p>
+				<div class='row text-center'>
+	           <div class='col-md-12'>
+	           	<button>XEM TẤT CẢ</button>
+	           </div><!--col-->
+				</div><!--row-->
+			</div><!--col-->
+		</div><!--style-->
+		</div><!--row-->
+			<div class='row games text-center'>
+			<div class='col-md-3 col-6'>
+				<div class="borders" style='border:1px solid#ccc;padding: 2px 5px 30px 5px'>
+				<img src='https://1.bp.blogspot.com/-IYWrQxM0l_s/Xxqoc2cIrHI/AAAAAAAAB5I/Wp4GXZxCVjA1Ho__ysem4eSuwQl5yrIvwCLcBGAsYHQ/s640/ruong1.jpg' width='100%'/>
+				<h6>DANH MỤC GAME LIÊN QUÂN</h6>
+				<p>Đã quay : 19,999</p>
+				<div class='row text-center'>
+	           <div class='col-md-12'>
+	           	<button>XEM TẤT CẢ</button>
+	           </div><!--col-->
+				</div><!--row-->
+			</div><!--col-->
+		</div><!--style-->
+			<div class='col-md-3 col-6'>
+				<div class="borders" style='border:1px solid#ccc;padding: 2px 5px 30px 5px'>
+				<img src='https://1.bp.blogspot.com/-IYWrQxM0l_s/Xxqoc2cIrHI/AAAAAAAAB5I/Wp4GXZxCVjA1Ho__ysem4eSuwQl5yrIvwCLcBGAsYHQ/s640/ruong1.jpg' width='100%'/>
+				<h6>DANH MỤC GAME LIÊN QUÂN</h6>
+				<p>Đã quay : 19,999</p>
+				<div class='row text-center'>
+	           <div class='col-md-12'>
+	           	<button>XEM TẤT CẢ</button>
+	           </div><!--col-->
+				</div><!--row-->
+			</div><!--col-->
+		</div><!--style-->
+			<div class='col-md-3 col-6'>
+				<div class="borders" style='border:1px solid#ccc;padding: 2px 5px 30px 5px'>
+				<img src='https://1.bp.blogspot.com/-IYWrQxM0l_s/Xxqoc2cIrHI/AAAAAAAAB5I/Wp4GXZxCVjA1Ho__ysem4eSuwQl5yrIvwCLcBGAsYHQ/s640/ruong1.jpg' width='100%'/>
+				<h6>DANH MỤC GAME LIÊN QUÂN</h6>
+				<p>Đã quay : 19,999</p>
+				<div class='row text-center'>
+	           <div class='col-md-12'>
+	           	<button>XEM TẤT CẢ</button>
+	           </div><!--col-->
+				</div><!--row-->
+			</div><!--col-->
+		</div><!--style-->
+			<div class='col-md-3 col-6'>
+				<div class="borders" style='border:1px solid#ccc;padding: 2px 5px 30px 5px'>
+				<img src='https://1.bp.blogspot.com/-IYWrQxM0l_s/Xxqoc2cIrHI/AAAAAAAAB5I/Wp4GXZxCVjA1Ho__ysem4eSuwQl5yrIvwCLcBGAsYHQ/s640/ruong1.jpg' width='100%'/>
+				<h6>DANH MỤC GAME LIÊN QUÂN</h6>
+				<p>Đã quay : 19,999</p>
+				<div class='row text-center'>
+	           <div class='col-md-12'>
+	           	<button>XEM TẤT CẢ</button>
+	           </div><!--col-->
+				</div><!--row-->
+			</div><!--col-->
+		</div><!--style-->
+		</div><!--row-->
+	</div><!--container-->
+</div><!--moruong-->
+<div id='footer' style='background: #333'>
+	<div class='container'>
+		<div class='row' style='padding: 50px 0 50px 0'>
+			<div class='col-md-6'>
+				<h5>VỀ <span>NICK.VN</span><img src='https://1.bp.blogspot.com/-846af8ofADg/XxqoefGgI6I/AAAAAAAAB5M/VsQ4ohuO2jsF-0bbjSulX3-qp0FT83WcgCLcBGAsYHQ/s0/dmca.png' width='20%'/></h5>
+				<p style='color: silver'>Chuyên mua bán nick các game... an toàn. Tin cậy nhanh chóng. Giao dịch tự động 24/24</p>
+				<ul>
+					<li><a href='#'>Giới thiệu</a></li>
+					<li><a href='#'>Hướng Dẫn Mua Tài Khoản</a></li>
+					<li><a href='#'>Hướng Dẫn Mua Nick Trả Góp</a></li>
+					<li><a href='#'>Tuyển Đại Lý cung cấp nick tại Nick.vn</a></li>
+					<li><a href='#'>Liên hệ/góp ý</a></li>
+				</ul>
+			</div><!--col-->
+			<div class='col-md-6'>
+				<h5>CHÚNG TÔI Ở ĐÂY</h5>
+				<p style='color: white'>Chúng tôi làm việc một cách chuyên nghiệp, uy tín, nhanh chóng và luôn đặt quyền lợi của bạn lên hàng đầu.</p>
+				<h5>Hotline: 0869693000</h5>
+				<h5>Thời gian làm việc 8h-11h30 và 13h30-22h</h5>
+			</div>
+		</div><!--row-->
+	</div><!--container-->
+</div><!--footer-->
+        <b:section class='navbar' id='navbar' maxwidgets='1' showaddelement='yes'/>
+    </body>
+</html>
